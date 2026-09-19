@@ -1,0 +1,12 @@
+200 GET /
+200 GET /login
+404 GET /profile
+200 GET /dashboard
+500 POST /payment
+404 GET /settings
+403 GET /admin
+200 GET /products
+500 POST /checkout
+200 GET /logout
+404 GET /unknown
+500 POST /payment

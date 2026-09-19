@@ -1,0 +1,3 @@
+APP_NAME=LinuxPractice
+PORT=8080
+ENVIRONMENT=production

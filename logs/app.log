@@ -1,0 +1,12 @@
+INFO Application started
+INFO Database connected
+WARNING CPU usage high
+INFO User login successful
+ERROR Database connection timeout
+INFO Database reconnected
+WARNING Memory usage high
+ERROR Payment service unavailable
+INFO Request completed
+ERROR Permission denied
+INFO Application still running
+ERROR Database connection timeout

@@ -1,0 +1,19 @@
+ LINUX APPLICATION INCIDENT REPORT
+ 
+Total Errors: 
+4
+ 
+Total Warnings : 
+2
+ 
+Latest Error :
+ERROR Database connection timeout
+ 
+Database Problems :
+ERROR Database connection timeout
+ERROR Database connection timeout
+ 
+Payment Problems :
+ERROR Payment service unavailable
+ 
+Investigation completed.
